@@ -1,0 +1,22 @@
+@l!x0
+Toko      : Food Resto                  
+Alamat    : Jl. Pondok Ungu Permai      
+No. Telp  : 0895-9187-1765              
+
+No. Order : 10
+Tanggal   : 10-12-2021
+Kasir     : kasir
+========================================
+Menu                 Harga Qty  Subtotal
+========================================
+FRIENCH FRIES        5,000   1     5,000
+ES SUSU COKELAT     10,000   1    10,000
+STEAK PANGGANG      50,000   1    50,000
+
+                   Sub Total :    65,000
+                      Diskon :         0
+                       TOTAL :    65,000
+----------------------------------------
+Terima Kasih atas kunjungan Anda
+
+
